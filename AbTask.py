@@ -20,5 +20,6 @@ for x in combinedTuple:
 for name in nameDict:
     names.append(name + " " + nameDict[name])
 #print(names)
+#tesing GIT!!!
 text = '\n'.join(names)
 print(text)
